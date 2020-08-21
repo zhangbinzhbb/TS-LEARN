@@ -1,0 +1,23 @@
+{
+  "name": "ts-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:w": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangbinzhbb/TS-LEARN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangbinzhbb/TS-LEARN/issues"
+  },
+  "homepage": "https://github.com/zhangbinzhbb/TS-LEARN#readme",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
